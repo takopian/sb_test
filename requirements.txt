@@ -1,0 +1,8 @@
+aiohttp==3.9.5
+aiohttp_apispec==2.2.3
+coverage==7.5.3
+flake8==7.0.0
+flake8-isort==6.1.1
+python-dateutil==2.9.0
+marshmallow==3.21.3
+isort==5.13.2
